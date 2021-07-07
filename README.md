@@ -15,19 +15,19 @@
 - First download Stylish extension for Chrome. <a href = "https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=es" target="_blank">Stylish<a>
 
 - Once you have Stylish installed go to the extension menu
-<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/1.png?raw=true' width="150px">
+<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/a1.png?raw=true' width="150px">
 
 - If you can't find the extension's menu, you can look for it in the extensions button in chrome
-<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/2.png?raw=true' width="50px">
+<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/a2.png?raw=true' width="50px">
 
 - Inside the Stylish menu go to the three dot menu and click create a new style
-<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/3.png?raw=true' width="200px">
+<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/a3.png?raw=true' width="200px">
 
 - The previous step open a new tab, in this tab you have to copy the main.css code and paste inside the textblock. Just here
-<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/4.png?raw=true' width="100%">
+<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/a4.png?raw=true' width="100%">
 
 - Below textblock click in specify and choose "URL starting with" option and in the next textblock put https://intranet.hbtn.io/
-<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/5.png?raw=true' width="100%">
+<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/a5.png?raw=true' width="100%">
 
 - Finally name the style and click save
 
