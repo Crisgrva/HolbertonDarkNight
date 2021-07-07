@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
 
 </p>
-<div size='20px'>I did the exercise of adding some styles to the Holberton page to add the dark mode to the page. I want to share with you this method to avoid being dazzled every time we switch between our code editor and the intranet. Only for chromium browser</div>
+<div size='20px'>I did the exercise of adding some styles to the Holberton page to add the dark mode to the page. I want to share with you this method to avoid being dazzled every time we switch between our code editor and the intranet. Compatible with Chrome</div>
 
 <h2> How to do it? </h2>
 
