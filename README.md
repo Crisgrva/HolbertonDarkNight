@@ -10,6 +10,9 @@
 </p>
 <div size='20px'>I did the exercise of adding some styles to the Holberton page to add the dark mode to the page. I want to share with you this method to avoid being dazzled every time we switch between our code editor and the intranet. Compatible with Chrome</div>
 
+<h2> Example </h2>
+<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/example.png?raw=true' width="100%">
+
 <h2> How to do it? </h2>
 
 - First download Stylish extension for Chrome. <a href = "https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=es" target="_blank">Stylish<a>
