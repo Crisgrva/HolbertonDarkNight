@@ -14,10 +14,10 @@
 
 - First download Stylish extension for Chrome. <a href = "https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=es" target="_blank">Stylish<a>
 
-- once you have Stylish installed go to the extension menu
+- Once you have Stylish installed go to the extension menu
 <img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/1.png?raw=true' width="150px">
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- If you can't find the extension's menu, you can look for it in the extensions button in chrome <img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/2.png?raw=true' width="50px">
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
