@@ -5,7 +5,7 @@
 <h1> Hello < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=crisgrva.crisgrva)
 
 </p>
 <div size='20px'>I did the exercise of adding some styles to the Holberton page to add the dark mode to the page. I want to share with you this method to avoid being dazzled every time we switch between our code editor and the intranet. Compatible with Chrome</div>
@@ -36,7 +36,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href = 'https://www.twitter.com/crisgrvc' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>@Crisgrvc</a> 
+<a href = 'https://www.twitter.com/crisgrvc' target="_blank"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>@Crisgrvc</a>
 
 
 <br>
