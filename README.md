@@ -15,7 +15,7 @@
 - First download Stylish extension for Chrome. <a href = "https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=es" target="_blank">Stylish<a>
 
 - once you have Stylish installed go to the extension menu
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/1.png?raw=true' width="100px">
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
