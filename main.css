@@ -1,0 +1,140 @@
+body, code {
+    background-color: #101111;
+    color: #99999A!important;
+}
+
+.alert-info {
+    background-color: #333435;
+}
+
+.panel.panel-default .panel-heading .panel-title {
+    color: #99999A!important;
+}
+
+.panel {
+    border-color: #252628;
+    background-color: #1C1D1F!important;
+}
+
+.panel-default>.panel-heading, .modal-content {
+    background-color: #333435;
+}
+
+.panel.panel-default .panel-heading .panel-title {
+    color: white;
+}
+
+.list-group-item.in_second_deadline {
+    background-color: #404244;
+}
+
+.list-group-item {
+    background-color: #262626;
+    border-color: #252628;
+}
+
+a {
+    color: #8AB7ED;
+    transition: .2s;
+}
+
+a:hover, a:focus {
+    color: white;
+}
+
+pre {
+    background-color: #1C1D1F;
+    color: #99999A;
+    border-color: #333435;
+}
+
+.task_progress_score_bar .task_score_bar {}
+
+.panel-footer {
+    background-color: #333435;
+}
+
+.btn-default {
+    background-color: #1C1D1F;
+    color: #99999A;
+    transition: .2s;
+}
+
+table thead {
+    background-color: #1C1D1F;
+}
+
+tr {
+    border-color: 252628;
+    background-color: #333435!important;
+}
+
+.table>thead>tr>th, .table>thead>tr>td, .table>tbody>tr>th, .table>tbody>tr>td, .table>tfoot>tr>th, .table>tfoot>tr>td, .panel-default>.panel-heading {
+    border-color: #252628;
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #333435!important;
+}
+
+.dhx_cal_container {
+    background-color: #404244;
+}
+
+.dhx_cal_navline, .dhx_cal_today_button, .dhx_cal_date, .dhx_cal_next_button, .dhx_cal_prev_button, .dhx_cal_tab, .dhx_cal_today_button {
+    color: white;
+}
+
+.dhx_cal_navline .dhx_cal_tab.active, .dhx_cal_navline .dhx_cal_my_button.active {
+    background-color: #8AB7ED;
+}
+
+.dhx_cal_header, table {
+    background-color: #1C1D1F!important;
+}
+
+.sidebar, .logo-container, .sidebar>ul>li:last-child, .clean.well, .well {
+    background-color: #1C1D1F!important;
+    border-color: #252628;
+}
+
+.form-control {
+    color: white;
+    background-color: #1C1D1F!important;
+}
+
+.logo-container {
+    border-bottom: #252628!important;
+    border-right: #252628!important;
+}
+
+.close {
+    color: white;
+    transition: .2s;
+}
+
+.pto_history_title {
+    padding-left: 10px!important
+}
+
+.navigation>ul>li a .icon.active, .navigation>ul>li a .image.active {
+    background-color: #8AB7ED;
+}
+
+.navigation>ul>li a .icon:hover, .navigation>ul>li a .image:hover {
+    background-color: #8AB7ED;
+}
+
+.sidebar .logo-container {
+    background-color: #404244!important;
+}
+
+.navbar-default {
+    background-color: #1C1D1F!important;
+}
+
+.close, .navbar-default .navbar-nav>li>a {
+    color: white;
+    transition: .2s;
+    ;
+}
