@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/banner.png?raw=true" alt="cover" />
+<img width="100%" height = "auto" src="https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/banner.png?raw=true" alt="cover" />
 </div>
 
 <h1> Hello < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
