@@ -26,7 +26,8 @@
 - The previous step open a new tab, in this tab you have to copy the main.css code and paste inside the textblock. Just here
 <img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/4.png?raw=true' width="100%">
 
-- You have to
+- Below textblock click in specify and choose "URL starting with" option and in the next textblock put https://intranet.hbtn.io/
+<img src='https://github.com/Crisgrva/HolbertonDarkNight/blob/master/images/5.png?raw=true' width="100%">
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
